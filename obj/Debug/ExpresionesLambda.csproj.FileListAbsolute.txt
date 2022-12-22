@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe.config
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\bin\Debug\ExpresionesLambda.pdb
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\obj\Debug\ExpresionesLambda.exe
+C:\Users\PRIDE RABBIT\source\repos\ExpresionesLambda\obj\Debug\ExpresionesLambda.pdb
