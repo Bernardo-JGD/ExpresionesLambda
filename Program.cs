@@ -19,7 +19,9 @@ namespace ExpresionesLambda
             //listaNumerosFiltrar();
             //actionImprimir();
             //actionImprimirLista();
-            actionImprimirListaDiferente();
+            //actionImprimirListaDiferente();
+            //distinto();
+            distintoObjeto();
             Console.ReadLine();
         }
 
@@ -125,6 +127,36 @@ namespace ExpresionesLambda
                 }
             };
             var resultado = fnOrdenSuperior(600, numero=> numero*2);
+        }
+
+        private static void distinto()
+        {
+            var listaNumeros = new List<int> { 3, 5, 7, 4, 8, 9, 4, 3, 7, 2 };
+
+            var listaNumeros2 = listaNumeros.Distinct().ToList();
+            foreach (var numero in listaNumeros2)
+            {
+                Console.WriteLine(numero);
+            }
+        }
+
+        private static void distintoObjeto()
+        {
+            List<Objeto> objetos = new List<Objeto>()
+            {
+                new Objeto("nombre1", 1),
+                new Objeto("nombre2", 2),
+                new Objeto("nombre1", 1),
+                new Objeto("nombre3", 2),
+                new Objeto("nombre2", 2),
+                new Objeto("nombre4", 1),
+                new Objeto("nombre5", 1)
+            };
+
+           
+
+            
+            
         }
 
     }
